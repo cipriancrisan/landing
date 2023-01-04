@@ -1,0 +1,16 @@
+.btn-green {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #80d480;
+    padding: 11px 20px;
+    border-radius: 40px;
+    box-shadow: 0 1px 4px darkgreen;
+    text-shadow: 0 0 black;
+    opacity: 0.9;
+}
+
+.btn-green:hover {
+  opacity: 1;
+}

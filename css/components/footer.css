@@ -1,0 +1,20 @@
+.footer {
+  background-color: #2c2b2b;
+  padding: 60px;
+  text-align: center;
+  color: lightgreen;
+}
+
+.footer-icon {
+  display: flex;
+  color: lightgreen;
+}
+
+.footer p {
+  color: #6B6C6C;
+}
+
+.footer a {
+  color: lightgreen;
+  font-size: x-large;
+}
